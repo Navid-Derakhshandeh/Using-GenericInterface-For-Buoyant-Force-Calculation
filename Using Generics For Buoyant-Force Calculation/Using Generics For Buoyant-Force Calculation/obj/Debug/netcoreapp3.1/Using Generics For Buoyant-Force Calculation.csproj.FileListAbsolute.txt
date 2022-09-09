@@ -1,0 +1,13 @@
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\bin\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.exe
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\bin\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.deps.json
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\bin\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.runtimeconfig.json
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\bin\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.runtimeconfig.dev.json
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\bin\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.dll
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\bin\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.pdb
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\obj\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\obj\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.AssemblyInfoInputs.cache
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\obj\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.AssemblyInfo.cs
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\obj\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\obj\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.dll
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\obj\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.pdb
+C:\Users\N.D\Desktop\Test4\Using Generics For Buoyant-Force Calculation\Using Generics For Buoyant-Force Calculation\obj\Debug\netcoreapp3.1\Using Generics For Buoyant-Force Calculation.genruntimeconfig.cache
